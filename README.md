@@ -7,3 +7,11 @@
 репозиторий самих Записок: https://github.com/dhhse/Otechestvennie_zapiski
 
 где лежат сканы: https://primo.nlr.ru/permalink/f/df0lai/07NLR_LMS004359022
+
+репозиторий библиотеки MMOCR:
+
+https://github.com/open-mmlab/mmocr
+
+репозиторий библиотеки ABINet:
+
+https://github.com/FangShancheng/ABINet
